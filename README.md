@@ -1,9 +1,9 @@
 # Make_AVR_Programming_tips
-This is a guide which explains how to set up a PC for the Make:AVR Programming book, mostly because I'm an idiot and every time I try to do this I forget a few things and then spend DAYS trying to figure it out again.
+This is a guide which explains how to set up a PC for the Make: AVR Programming book, mostly because I'm an idiot and every time I try to do this I forget a few things and then spend DAYS trying to figure it out again.
 
 1) Download the [AVR Toolchain from here](https://www.microchip.com/mplab/avr-support/avr-and-arm-toolchains-c-compilers).  Note that at some point Microchip put this behind a sign-up wall.
 
-2) Download the [Make: AVR Programming companion files].
+2) Download the [Make: AVR Programming companion files](https://github.com/hexagon5un/AVR-Programming).
 
 3) FOR THE LAST TIME, YOU DO NOT NEED GCC!  You think this EVERY TIME and it's half the reason you take so long to get this set up!
 
